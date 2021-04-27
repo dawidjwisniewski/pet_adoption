@@ -3,22 +3,10 @@ Sages Kodolamacz final project - Pet Adoption Projection
 
 Author: Dawid Wisniewski
 
+Goal of the project: The goal of the project is to predict the speed at which a pet is adopted, based on the pet’s listing on PetFinder site. Our additional yet important objective is to identify the best practices that positively impact the adoption speed so that the future pet profiles are created to speed up the adoption speed
 
-Project description and data source: https://www.kaggle.com/c/petfinder-adoption-prediction
+Data: The data included text, tabular, and image data. See below for details.
 
+Project description and data: https://www.kaggle.com/c/petfinder-adoption-prediction
 
-
-Next TODO:
-* select breads from similar breeds and decide what to do with it
-* decide how to analyze colors
-* merge picture data with extended dataset
-* consider adding labels in the main dataset
-*
-* start looking at data
-- look for nans and decide what to do
-- charts
-- dependencies vs Adoption time
-
-Potential TODO when project is done
-- pull raw picture data?
-- use metadata from additional pictures? [rather not]
+Date: 2020-04-27
