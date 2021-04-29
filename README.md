@@ -9,4 +9,4 @@ Data: The data included text, tabular, and image data. See below for details.
 
 Project description and data: https://www.kaggle.com/c/petfinder-adoption-prediction
 
-Date: 2020-04-27
+Date: 2020-04-29
